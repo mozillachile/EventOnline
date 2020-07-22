@@ -6,6 +6,9 @@ labels: ''
 assignees: iformas, lourcastillo
 
 ---
+<!--
+Las charlas propuestas pueden estar relacionadas de alguna forma a la misión de Mozilla y/o alguno de los proyectos que inició o mantiene, desde tecnologías y herramientas creadas y/o utilizadas hasta proyectos de la comunidad. Aunque los temas son abiertos.
+--> 
 
 Hola, soy **Nombre y Apellido** 👋 y he estado trabajando como **Rol y/o profesional** 💻 durante unos **años de experiencia**✅.
 
