@@ -9,7 +9,7 @@ assignees: iformas, lourcastillo
 
 Hola, soy **Nombre y Apellido** y he estado trabajando como **Rol y/o profesional** durante unos **años de experiencia**.
 
-Hablaremos sobre **<título de la charla>** y se trata de **<breve descripción de qué se trata la charla>**.
+Hablaremos sobre **título de la charla** y se trata de **breve descripción de qué se trata la charla**.
 
 Soy muy bueno/a **hobby que quiera compartir**.
 
