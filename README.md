@@ -16,7 +16,12 @@ En nuestro grupo hablamos de Firefox, tecnologías web y la Web Abierta. Acogemo
 a usuarios de Firefox y otros productos de Mozilla, desarrolladores web y
 desarrolladores de aplicaciones web móviles. Anímate a proponer una charla [siguiendo estos pasos](https://github.com/mozillachile/EventOnline/wiki/%C2%BFC%C3%B3mo-proponer-una-charla%3F).
 
+## Eventos Online de Mozilla Chile
+### Contenido
+* [Wiki Repo](https://github.com/mozillachile/EventOnline/wiki/Inicio)
+* [¿Cómo proponer una charla?](https://github.com/mozillachile/EventOnline/wiki/%C2%BFC%C3%B3mo-proponer-una-charla%3F)
+
 ## Guías para la participación
 
-https://www.mozilla.org/es-ES/about/governance/policies/participation/
+* [Código de Conducta](https://www.mozilla.org/es-ES/about/governance/policies/participation)
 
