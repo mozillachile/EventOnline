@@ -9,7 +9,7 @@ público en general que se identifica con el
 proyecto con la misión de propiciar el desarrollo y la innovación en Internet.
 
 Desde aquí podrás unirte a
-[nuestros Eventos](https://community.mozilla.org/en/groups/mozilla-chile/?view=events) y estar al
+[nuestros eventos](https://community.mozilla.org/en/groups/mozilla-chile/?view=events) y estar al
 tanto de nuestras reuniones futuras, e inscribirte en ellas.
 
 En nuestro grupo hablamos de Firefox, tecnologías web y la Web Abierta. Acogemos
