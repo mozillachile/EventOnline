@@ -18,5 +18,5 @@ desarrolladores de aplicaciones web móviles. Anímate a proponer una charla [si
 
 ## Guías para la participación
 
-https://www.mozilla.org/about/governance/policies/participation/
+https://www.mozilla.org/es-ES/about/governance/policies/participation/
 
