@@ -15,6 +15,6 @@ Soy muy bueno/a **hobby que quiera compartir**.
 
 Tengo disponibilidad para **Fecha y hora**.
 
-¡Bacán! Podemos seguir en contacto en nuestra [sala de Mozilla Chile] (https://matrix.to/#/!KsBOBSzPNPSDbQUycW:mozilla.org?via=mozilla.org&via=matrix.org).
+¡Bacán! Podemos seguir en contacto en nuestra [sala de Mozilla Chile](https://matrix.to/#/!KsBOBSzPNPSDbQUycW:mozilla.org?via=mozilla.org&via=matrix.org).
 
 ###### Editar las palabras resaltadas en negrita 👋🇨🇱
